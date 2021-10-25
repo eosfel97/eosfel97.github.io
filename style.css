@@ -11,7 +11,7 @@ body{
 }
 
 .main-content{
-  min-height: 100vh;
+  min-height: 120vh;
   width: 80%;
   margin: 32px auto;
   display: grid;
@@ -72,7 +72,7 @@ body{
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #f7f7f7ec;
-  padding-top: 48px;
+  padding-top: 200px;
 }
 
 .contact-info ul{
@@ -92,7 +92,7 @@ body{
 }
 
 .comp-section ul{
-  padding-top: 32px;
+  padding-top: 30px;
 }
 .comp-section ul li{
   display: grid;
@@ -120,7 +120,7 @@ body{
   width: 70%;
 }
 .ps-progress{
-  width: 90%;
+  width: 10%;
 }
 .j-progress{
   width: 5%;
@@ -147,7 +147,7 @@ body{
   width: 70%;
 }
 .p-progress{
-  width: 70%;
+  width: 1%;
 }
 .m-progress{
   width: 70%;
